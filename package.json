@@ -1,5 +1,5 @@
 {
-  "name": "mightyjordan-triviabot",
+  "name": "triviabot",
   "version": "1.0.0",
   "description": "Discord Trivia Bot - Fiverr",
   "main": "index.js",
